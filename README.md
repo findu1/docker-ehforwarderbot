@@ -25,5 +25,5 @@ docker run -d --restart=always \
     -e "TZ=Asia/Shanghai" \
     -e "EFB_PROFILE=default" \
     -v $(pwd)/.ehforwarderbot:/config \
-    ghcr.io/royxiang/ehforwarderbot:latest
+    ghcr.io/royxiang/ehforwarderbot:latest.
 ```
