@@ -24,6 +24,7 @@ RUN set -ex \
                 py3-ujson \
                 py3-yaml \
                 sqlite \
+                gifsicle \
         && rm -rf /var/cache/apk/*
 
 COPY app/ /app/
