@@ -5,7 +5,7 @@ RUN set -ex \
                 ca-certificates \
                 ffmpeg \
                 mailcap \
-                python3 \
+                python3=3.8.10-r0 \
                 py3-aiohttp \
                 py3-cairocffi \
                 py3-cryptography \
