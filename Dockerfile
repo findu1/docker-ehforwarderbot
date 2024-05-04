@@ -6,7 +6,6 @@ RUN set -ex \
                 ffmpeg \
                 mailcap \
                 python3 \
-                py3-lottie \
                 py3-aiohttp \
                 py3-cairocffi \
                 py3-cryptography \
