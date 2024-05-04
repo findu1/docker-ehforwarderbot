@@ -12,3 +12,5 @@ efb-msg_blocker-middleware
 efb-search_msg-middleware
 efb-online-middleware
 git+https://github.com/Ovler-Young/efb-link_preview-middleware
+cairosvg
+lottie
