@@ -1,4 +1,4 @@
-ehforwarderbot==2.1.1
+ehforwarderbot
 git+https://github.com/Ovler-Young/efb-telegram-master
 git+https://github.com/Ovler-Young/efb-wechat-slave
 git+https://github.com/xzsk2/efb-filter-middleware
