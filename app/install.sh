@@ -8,7 +8,7 @@ VIRTUALENV=".venv"
 # create virtual environment
 virtualenv --system-site-packages $VIRTUALENV
 source $VIRTUALENV/bin/activate
-pip3 install -U pip
+# pip3 install -U pip
 # install basic packages
 pip3 install -r $APPDIR/requirements.txt
 # deactivate virtual environment

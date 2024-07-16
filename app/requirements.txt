@@ -1,4 +1,4 @@
-ehforwarderbot
+ehforwarderbot==2.1.1
 git+https://github.com/Ovler-Young/efb-telegram-master
 git+https://github.com/Ovler-Young/efb-wechat-slave
 git+https://github.com/xzsk2/efb-filter-middleware
@@ -6,6 +6,7 @@ git+https://github.com/Ovler-Young/efb-patch-middleware
 efb-mp-instantview-middleware
 efb-voice_recog-middleware
 efb-notice-middleware
+efb-msg_blocker-middleware
 efb-search_msg-middleware
 efb-online-middleware
 git+https://github.com/Ovler-Young/efb-link_preview-middleware
